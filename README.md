@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @muhhammadyousaf
+- 👋 Hi, I’m @muhhammadyousuf
 - 👀 I’m interested in Web Designing and Development
 - 🌱 I’m currently learning CSS and Java
 - 💞️ I’m looking to collaborate on ...
